@@ -1,3 +1,5 @@
 [workspace]
-members = []
+members = [
+    "mandelbrot_cli",
+]
 resolver = "2"
